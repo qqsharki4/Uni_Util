@@ -1,0 +1,9 @@
+---= Change log 0.1.1.4 (16.02.24) =---
+RU:
+Кнопки окна "Log Console" снова стали опциональны
+Востановлена работа USBDeview (fix file not found)
+Частично изменена структура кода
+EN:
+The "Log Console" window buttons are now optional again
+USBDeview has been restored (fix file not found)
+The code structure has been partially changed
