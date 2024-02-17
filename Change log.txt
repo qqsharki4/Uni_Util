@@ -7,3 +7,11 @@ EN:
 The "Log Console" window buttons are now optional again
 USBDeview has been restored (fix file not found)
 The code structure has been partially changed
+
+---= Change log 0.1.1.5 (17.02.24) =---
+RU: 
+Добавленая функция "Select" (выберите файл) в разделе "Checker"
+Подготовка структуры кода к авто обновлению
+EN:
+Added "Select" function (select file) in the "Checker" section
+Preparing the code structure for auto update
